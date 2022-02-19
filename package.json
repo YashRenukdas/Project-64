@@ -1,0 +1,10 @@
+{
+  "name": "Project 64",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "expo": "^44.0.6",
+    "react-native": "^0.67.2"
+  }
+}
